@@ -1,7 +1,7 @@
 # FrontToBack
 If you want to use project in your device :
--Add proper ConnectionString (e.g your local server)
--Update database (vs: update-database, 
+######-Add proper ConnectionString (e.g your local server)
+######-Update database (vs: update-database, 
 vsc with cmd: dotnet ef database update)
 
 ######//MVC creating with cmd
